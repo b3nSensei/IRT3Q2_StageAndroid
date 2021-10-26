@@ -12,7 +12,6 @@
     com.example.exemple
 
     SHA-1 certificate fingerprint:
-    87:53:14:E9:F0:FE:A0:86:D2:9C:8A:16:B6:99:19:B2:9C:10:4F:BC
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
@@ -21,8 +20,8 @@
     string in this file.
 
     Account used is: stagethuin@gmail.com
-    API key is: AIzaSyACoOYQDK9SGj5z_gA5ub3KxD_ALEhapv8
-    JSON file is: https://drive.google.com/file/d/1Xzqitya0zj8E8_4Zlr0tLjfoksBcxOZ5
+    API key is: 
+    JSON file is: 
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyACoOYQDK9SGj5z_gA5ub3KxD_ALEhapv8</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">"YOUR API HERE</string>
 </resources>

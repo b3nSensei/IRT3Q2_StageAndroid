@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemple</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_id">4dc2449530e05dbb</string>
+    <string name="player_hp">Player HP: </string>
+    <string name="_100">100</string>
+    <string name="sign_out">Sign out</string>
+    <string name="default_web_client_id">395965865037-r8rr89uqe1nur6ovbn1mphv3jejofj8r.apps.googleusercontent.com</string>
+</resources>

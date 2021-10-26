@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Maison communale",
+    "latitude": 50.3390,
+    "longitude": 4.2888,
+    "snippet" : "Maison communale de la ville de Thuin.\nSite web: https://www.thuin.be/ ",
+    "type" : 1,
+    "tag" : "Maison Communale"
+  },
+  {
+    "title": "Les Jardins suspendus de Thuin",
+    "latitude": 50.338959,
+    "longitude": 4.289880,
+    "snippet" : "Découvre les Jardins suspendus de Thuin",
+    "type" : 2,
+    "tag" : "Secret: Jardin suspendus de Thuin"
+  },
+  {
+    "title": "Secret: Jardin suspendus de Thuin",
+    "latitude": 50.338495,
+    "longitude": 4.289872,
+    "snippet": "Jardin suspendus de la ville de thuin",
+    "type": 3,
+    "tag" : "secret"
+  },
+  {
+    "title": "point1",
+    "latitude": 50.341336,
+    "longitude": 4.279823,
+    "snippet": "point1 de la zone 1",
+    "type" : 5,
+    "tag" : "zone1"
+  },
+  {
+    "title": "point2",
+    "latitude": 50.340659,
+    "longitude": 4.291229,
+    "snippet": "point2 de la zone 1",
+    "type" : 5,
+    "tag" : "zone1"
+  },
+  {
+    "title": "point3",
+    "latitude": 50.345298,
+    "longitude": 4.290397,
+    "snippet": "point3 de la zone 1",
+    "type" : 5,
+    "tag" : "zone1"
+  },
+  {
+    "title": "point4",
+    "latitude": 50.343545,
+    "longitude": 4.279110,
+    "snippet": "point4 de la zone 1",
+    "type" : 5,
+    "tag" : "zone1"
+  },
+  {
+    "title": "Haute1",
+    "latitude": 50.340879,
+    "longitude": 4.279943,
+    "snippet": "Jardin suspendus de la ville de thuin",
+    "type" : 5,
+    "tag" : "haute"
+  },
+  {
+    "title": "Haute2",
+    "latitude": 50.340477,
+    "longitude": 4.292947,
+    "snippet": "Jardin suspendus de la ville de thuin",
+    "type" : 5,
+    "tag" : "haute"
+  },
+  {
+    "title": "Haute3",
+    "latitude": 50.335969,
+    "longitude": 4.295141,
+    "snippet": "Jardin suspendus de la ville de thuin",
+    "type" : 5,
+    "tag" : "haute"
+  }
+]
